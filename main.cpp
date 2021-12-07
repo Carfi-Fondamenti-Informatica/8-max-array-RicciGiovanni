@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int valoremax;
+    double valoremax;
     valoremax=vett();
     cout<<valoremax<<endl;
     return 0;
