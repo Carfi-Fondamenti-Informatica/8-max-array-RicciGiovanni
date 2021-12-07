@@ -1,5 +1,10 @@
 #include <iostream>
-
-int main(){
-  return 0;
+#include "lib.h"
+using namespace std;
+int main()
+{
+    int valoremax;
+    valoremax=vett();
+    cout<<valoremax<<endl;
+    return 0;
 }
